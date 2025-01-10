@@ -58,13 +58,13 @@ export const clientReviews = [
 
 export const myProjects = [
     {
-        title: 'Zentry inspored',
+        title: 'Zentry inspired',
         desc: '\n' +
             'An immersive, highly animated website designed for a game company, featuring dynamic 3D tilt effects, an animated video switcher for game trailers, parallax scrolling, and gamified interactions. With smooth transitions and responsive design, it brings the excitement of gaming to life in every click!',
         subdesc:
             '\n' +
             'Built using React and its powerful hooks, this website leverages GSAP for smooth animations and transitions, alongside other cutting-edge libraries to deliver a seamless, interactive, and visually engaging experience.',
-        href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+        href: 'https://zentry-neon.vercel.app/',
         texture: '/textures/project/project1.mp4',
         logo: '/assets/project-logo2.png',
         logoStyle: {
@@ -178,7 +178,7 @@ export const myProjects = [
         desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
         subdesc:
             'Built with Html, Css and Javascript ensuring a smooth and fully functional E-commerce Demo',
-        href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+        href: '',
         texture: '/textures/project/project4.mp4',
         logo: '/assets/project-logo4.png',
         logoStyle: {
