@@ -178,7 +178,7 @@ export const myProjects = [
         desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
         subdesc:
             'Built with Html, Css and Javascript ensuring a smooth and fully functional E-commerce Demo',
-        href: '',
+        href: 'https://buyora-iota.vercel.app/',
         texture: '/textures/project/project4.mp4',
         logo: '/assets/project-logo4.png',
         logoStyle: {
