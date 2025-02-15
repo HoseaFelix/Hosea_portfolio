@@ -58,7 +58,7 @@ export const clientReviews = [
 
 export const myProjects = [
     {
-        title: 'Zentry inspored',
+        title: 'Zentry inspired',
         desc: '\n' +
             'An immersive, highly animated website designed for a game company, featuring dynamic 3D tilt effects, an animated video switcher for game trailers, parallax scrolling, and gamified interactions. With smooth transitions and responsive design, it brings the excitement of gaming to life in every click!',
         subdesc:
@@ -178,7 +178,7 @@ export const myProjects = [
         desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
         subdesc:
             'Built with Html, Css and Javascript ensuring a smooth and fully functional E-commerce Demo',
-        href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+        href: 'https://buyora-iota.vercel.app/',
         texture: '/textures/project/project4.mp4',
         logo: '/assets/project-logo4.png',
         logoStyle: {
