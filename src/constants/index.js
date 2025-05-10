@@ -58,13 +58,13 @@ export const clientReviews = [
 
 export const myProjects = [
     {
-        title: 'Zentry inspired',
+        title: 'PromptPrep - an Ai mock Interviewer',
         desc: '\n' +
             'An immersive, highly animated website designed for a game company, featuring dynamic 3D tilt effects, an animated video switcher for game trailers, parallax scrolling, and gamified interactions. With smooth transitions and responsive design, it brings the excitement of gaming to life in every click!',
         subdesc:
             '\n' +
-            'Built using React and its powerful hooks, this website leverages GSAP for smooth animations and transitions, alongside other cutting-edge libraries to deliver a seamless, interactive, and visually engaging experience.',
-        href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+            'Built using Next JS and its powerful hooks, this website leverages  AI-SDK to simulate real life interviews, alongside other cutting-edge libraries to deliver a seamless, interactive, and visually engaging experience.',
+        href: 'https://ai-mock-nterviews.vercel.app',
         texture: '/textures/project/project1.mp4',
         logo: '/assets/project-logo2.png',
         logoStyle: {
@@ -96,21 +96,23 @@ export const myProjects = [
             },
         ],
     },
-    
+
     {
-        title: 'Boyzee - Anime Recommendation website',
-        desc: 'Boyzee is your ultimate destination for discovering the perfect anime to watch! With stunning visuals and an intuitive interface, AniPick makes exploring genres, ratings, and reviews an exciting experience. Whether you\'re a seasoned otaku or a curious newcomer, our expertly curated recommendations ensure you\'ll find your next favorite series in no time. Dive into a vibrant world of anime like never before!',
+        title: 'Zentry inspired',
+        desc: '\n' +
+            'An immersive, highly animated website designed for a game company, featuring dynamic 3D tilt effects, an animated video switcher for game trailers, parallax scrolling, and gamified interactions. With smooth transitions and responsive design, it brings the excitement of gaming to life in every click!',
         subdesc:
-            'Built as a unique Content discovery platform with Html, Css, and Javascript,  Boyzee is designed for optimal performance and scalability.',
-        href: 'https://boyzee.com.ng',
+            '\n' +
+            'Built using React and its powerful hooks, this website leverages GSAP for smooth animations and transitions, alongside other cutting-edge libraries to deliver a seamless, interactive, and visually engaging experience.',
+        href: 'https://zentry-neon.vercel.app',
         texture: '/textures/project/project2.mp4',
-        logo: '/assets/project-logo1.png',
+        logo: '/assets/project-logo2.png',
         logoStyle: {
-            backgroundColor: '#2A1816',
-            border: '0.2px solid #36201D',
-            boxShadow: '0px 0px 60px 0px #AA3C304D',
+            backgroundColor: '#13202F',
+            border: '0.2px solid #17293E',
+            boxShadow: '0px 0px 60px 0px #2F6DB54D',
         },
-        spotlight: '/assets/spotlight1.png',
+        spotlight: '/assets/spotlight2.png',
         tags: [
             {
                 id: 1,
@@ -135,11 +137,11 @@ export const myProjects = [
         ],
     },
     {
-        title: 'Nashville Zoo',
-        desc: 'Experience the wonders of wildlife with a zoo website clone featuring autoplaying videos of zoo activities! Built entirely with Javascript, HTML and CSS, this project recreates a captivating design, showcasing animal habitats, feedings, and behind-the-scenes action. A seamless way to bring the zoo experience online with just the essentials.',
+        title: 'Zee inventory',
+        desc: 'Inventory management made easy, no more paper storages or having to manually calculate sales, this web app takes inventory of available stocks, sells and generates receipt, and logs sale history which can be sorted by month or day',
         subdesc:
-            'Built with HTML, CSS, and JavaScript, this project combines clean design with interactivity to deliver a dynamic and engaging experience.',
-        href: 'https://www.nashvillezoo.org/',
+            'Built with react, tailwindCSS, and js, this project combines clean design with interactivity to deliver a dynamic and engaging experience.',
+        href: 'https://zee-inventory-website.vercel.app',
         texture: '/textures/project/project3.mp4',
         logo: '/assets/project-logo3.png',
         logoStyle: {
@@ -174,19 +176,19 @@ export const myProjects = [
         ],
     },
     {
-        title: 'Buyora-E-commerce Website',
-        desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+        title: 'Boyzee - Anime Recommendation website',
+        desc: 'Boyzee is your ultimate destination for discovering the perfect anime to watch! With stunning visuals and an intuitive interface, AniPick makes exploring genres, ratings, and reviews an exciting experience. Whether you\'re a seasoned otaku or a curious newcomer, our expertly curated recommendations ensure you\'ll find your next favorite series in no time. Dive into a vibrant world of anime like never before!',
         subdesc:
-            'Built with Html, Css and Javascript ensuring a smooth and fully functional E-commerce Demo',
-        href: 'https://buyora-iota.vercel.app/',
-        texture: '/textures/project/project4.mp4',
-        logo: '/assets/project-logo4.png',
+            'Built as a unique Content discovery platform with Html, Css, and Javascript,  Boyzee is designed for optimal performance and scalability.',
+        href: 'https://boyzee.com.ng',
+        texture: '/textures/project/project2.mp4',
+        logo: '/assets/project-logo1.png',
         logoStyle: {
-            backgroundColor: '#0E1F38',
-            border: '0.2px solid #0E2D58',
-            boxShadow: '0px 0px 60px 0px #2F67B64D',
+            backgroundColor: '#2A1816',
+            border: '0.2px solid #36201D',
+            boxShadow: '0px 0px 60px 0px #AA3C304D',
         },
-        spotlight: '/assets/spotlight4.png',
+        spotlight: '/assets/spotlight1.png',
         tags: [
             {
                 id: 1,
